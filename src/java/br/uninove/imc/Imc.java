@@ -32,4 +32,13 @@ public class Imc {
         baseado nessa tabela:
         https://arquivos.sbn.org.br/equacoes/eq5.htm
      */
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }
