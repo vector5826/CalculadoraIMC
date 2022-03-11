@@ -1,6 +1,7 @@
 <%@page import="br.uninove.imc.Imc"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
+
 <%
     float peso = Float.parseFloat(request.getParameter("peso"));
     float altura = Float.parseFloat(request.getParameter("altura"));
@@ -30,4 +31,5 @@
             <li><b>IMC: </b><%=resultado%></li>
         </ul>
     </body>
+    
 </html>
